@@ -1,8 +1,7 @@
-```html
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-My name is <b>Sanika </b> and I'm an AI & Data Science Engineering student from India 🇮🇳
+My name is <b>Sanika</b> and I'm an AI & Data Science Engineering student from India 🇮🇳
 </p>
 
 ---
@@ -72,4 +71,3 @@ My name is <b>Sanika </b> and I'm an AI & Data Science Engineering student from 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
-```
